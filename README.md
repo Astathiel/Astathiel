@@ -18,18 +18,7 @@ I am an aspiring **Software Developer** and **Data Analyst** from Finland 🇫�
 * Developing a **Competitor Web Scraper** using Python & ML.
 * Analyzing symptom data to build a search engine.
 * Deepening my knowledge in **Cloud & Cybersecurity**.
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astathiel&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Astathiel&layout=compact&theme=dark)
-
-</div>
-
+  
 ---
 
 ### 📫 Connect with me
