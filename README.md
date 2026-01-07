@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Leo! 👋
 
-<!--
-**Astathiel/Astathiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Software Developer** and **Data Analyst** from Finland 🇫🇮. I love building software and finding insights in complex data.
 
-Here are some ideas to get you started:
+🚀 **See my full portfolio:** [**astathiel.github.io**](https://astathiel.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🔭 What I'm working on
+* Developing a **Competitor Web Scraper** using Python & Selenium.
+* Analyzing symptom data to build a search engine.
+* Deepening my knowledge in **Cloud & Cybersecurity**.
+
+---
+
+### 📫 Connect with me
+* 💼 [LinkedIn](https://www.linkedin.com/in/leo-haanpaa/)
+* 🌐 [My Website](https://astathiel.github.io/)
