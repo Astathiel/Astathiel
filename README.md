@@ -21,6 +21,17 @@ I am an aspiring **Software Developer** and **Data Analyst** from Finland 🇫�
 
 ---
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astathiel&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Astathiel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Astathiel's GitHub Stats" />
+</div>
+
+---
+
 ### 📫 Connect with me
 * 💼 [LinkedIn](https://www.linkedin.com/in/leo-haanpaa/)
 * 🌐 [My Website](https://astathiel.github.io/)
