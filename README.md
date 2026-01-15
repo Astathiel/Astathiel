@@ -18,6 +18,7 @@ I am an aspiring **Software Developer** and **Data Analyst** from Finland ðŸ‡«ðŸ
 * Developing a **Competitor Web Scraper** using Python & ML.
 * Analyzing symptom data to build a search engine.
 * Deepening my knowledge in **Cloud & Cybersecurity**.
+* Developing an **AI powered** VTuber model.
   
 ---
 
