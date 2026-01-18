@@ -1,27 +1,39 @@
-### Hi there, I'm Leo! 👋
+# Leo Haanpää - Portfolio Website
 
-I am an aspiring **Software Developer** and **Data Analyst** from Finland 🇫🇮. I love building software and finding insights in complex data.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-🚀 **See my full portfolio:** [**astathiel.github.io**](https://astathiel.github.io/)
+This repository hosts my personal portfolio website, showcasing my work as a **Programmer** and **Data Analyst**. It serves as a central hub for my technical projects, certifications, and professional history.
 
----
-
-### 🛠️ Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+**Live Website:** [https://astathiel.github.io/](https://astathiel.github.io/)
 
 ---
 
-### 🔭 What I'm working on
-* Developing a **Competitor Web Scraper** using Python & ML.
-* Analyzing symptom data to build a search engine.
-* Deepening my knowledge in **Cloud & Cybersecurity**.
-* Developing an **AI powered** VTuber model.
-  
+## Technical Architecture
+This portfolio was engineered from scratch to demonstrate core frontend competencies without reliance on website builders or frameworks.
+
+* **Structure:** HTML5 (Semantic)
+* **Styling:** CSS3 (Grid Layout, Responsive Design)
+* **Logic:** JavaScript (DOM Manipulation, Chart.js)
+* **Hosting:** GitHub Pages
+
 ---
 
-### 📫 Connect with me
-* 💼 [LinkedIn](https://www.linkedin.com/in/leo-haanpaa/)
-* 🌐 [My Website](https://astathiel.github.io/)
+## Featured Projects
+The portfolio highlights the following key technical projects:
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Subscription Tracker** | React, Supabase, Stripe | Full-stack serverless application for tracking monthly expenses with authentication and payment integration. |
+| **Nova AI** | [Insert Tech Stack] | [Insert brief description of what Nova AI does] |
+| **Symptom Search App** | Python | Analyzes user symptoms to suggest potential medical conditions. |
+| **Competitor Scraper** | Python, BeautifulSoup | Automated script for extracting and analyzing competitor pricing data. |
+| **Library Management** | PHP, MySQL | Database-driven library system built for the Tredu educational institution. |
+
+---
+
+## Contact Information
+* **Location:** Tampere, Finland
+* **Email:** leohaanpaa99@gmail.com
+* **LinkedIn:** [linkedin.com/in/leo-haanpaa](https://www.linkedin.com/in/leo-haanpaa/)
