@@ -33,7 +33,7 @@ The portfolio highlights the following key technical projects:
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Subscription Tracker** | React, Supabase, Stripe | Full-stack serverless application for tracking monthly expenses with authentication, row-level security, and payment integration. |
-| **Nova AI** | Python, Ollama (Llama 3), Faster-Whisper | A locally hosted, offline AI assistant featuring split personality cores, PDF-based memory learning, and real-time voice interruption. |
+| **Astra AI** | Python, Ollama (Llama 3), Faster-Whisper | A locally hosted, offline AI assistant featuring split personality cores, PDF-based memory learning, and real-time voice interruption. |
 | **Symptom Search App** | Python | Analyzes user symptoms to suggest potential medical conditions. |
 | **Competitor Scraper** | Python, BeautifulSoup | Automated script for extracting and analyzing competitor pricing data. |
 | **Library Management** | PHP, MySQL | Database-driven library system built for the Tredu educational institution. |
