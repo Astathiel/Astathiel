@@ -1,4 +1,9 @@
-# Leo Haanpää - Portfolio Website
+# Hi there!
+I'm [Astathiel](https://astathiel.github.io/), an aspiring programmer based in Finland. I like making shortcuts to mundane tasks, and I love visualizing data. 
+My current fixation is on:
+* AIs and LLMs.
+* Automation
+* Cybersecurity
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,8 +18,6 @@
 
 This repository hosts my personal portfolio website, showcasing my work as a **Programmer** and **Data Analyst**. It serves as a central hub for my technical projects, certifications, and professional history.
 
-**Live Website:** [https://astathiel.github.io/](https://astathiel.github.io/)
-
 ---
 
 ## Technical Architecture
@@ -27,13 +30,12 @@ This portfolio was engineered from scratch to demonstrate core frontend competen
 
 ---
 
-## Featured Projects
-The portfolio highlights the following key technical projects:
+## Some projects I am working on:
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
 | **Subscription Tracker** | React, Supabase, Stripe | Full-stack serverless application for tracking monthly expenses with authentication, row-level security, and payment integration. |
-| **Astra AI** | Python, Ollama (dolphin-mistral), Faster-Whisper | A locally hosted, offline AI companion featuring split personality cores, PDF-based memory learning, and real-time voice interruption. |
+| **Nova AI** | Python, Ollama (dolphin-mistral), Faster-Whisper | A locally hosted, offline AI companion featuring screen vision, discord integration, chroma db long-term memory management, back and forth conversations, and internet access using duckduckgo-search. |
 | **Symptom Search App** | Python | Analyzes user symptoms to suggest potential medical conditions. |
 | **Competitor Scraper** | Python, BeautifulSoup | Automated script for extracting and analyzing competitor pricing data. |
 | **Library Management** | PHP, MySQL | Database-driven library system built for the Tredu educational institution. |
@@ -42,5 +44,4 @@ The portfolio highlights the following key technical projects:
 
 ## Contact Information
 * **Location:** Tampere, Finland
-* **Email:** leohaanpaa99@gmail.com
-* **LinkedIn:** [linkedin.com/in/leo-haanpaa](https://www.linkedin.com/in/leo-haanpaa/)
+* **Email:** astathieltech@gmail.com
