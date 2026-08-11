@@ -3,7 +3,7 @@ I'm [Astathiel](https://astathiel.github.io/), an aspiring programmer based in F
 My current fixation is on:
 * AIs and LLMs.
 * Automation
-* Cybersecurity
+* Data Science/Analytics
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
